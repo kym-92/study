@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Spring Redis Sample
 
 ---
