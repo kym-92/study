@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Spring Redis Sample
 
 ---
@@ -42,3 +43,7 @@ RedisCacheManager cm = RedisCacheManager.builder(connectionFactory)
 
 여러 가지 Redis Operations 검증을 위해 지속적으로 테스트 코드를 작성해서 올릴 예정입니다.
 
+=======
+# study
+개인 study
+>>>>>>> e3c4d4d90d0c9f6cad75a01a5dd3830fc8075f1c
